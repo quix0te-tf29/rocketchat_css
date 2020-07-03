@@ -1,6 +1,6 @@
 My own fork of  0x0049's Rocket.Chat.Dark with fixes and improvements
 
 
-![preview](https://imgur.com/JIQ5Cwp "Preview")
+![preview](https://i.imgur.com/JIQ5Cwp.png "Preview")
 
 original project here: https://github.com/0x0049/Rocket.Chat.Dark
